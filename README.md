@@ -6,7 +6,7 @@ http://optoforce.com/sixaxis/
 To run:
 
 1. Make sure you have ROS installed.
-2. Create a catkin_ws and clone the repo into the empty workspace.
+2. Create a catkin_ws and clone the repo into ```src``` directory of the empty workspace.
 3. ```catkin_make``` in the workspace root.
 4. ```source devel/setup.bash```
 5. In a new terminal, ```roscore``
