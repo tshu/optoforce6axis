@@ -12,7 +12,7 @@ To run:
 5. In a new terminal, ```roscore``
 6. ```rosrun optoforce optoforce_node``` with transducer connected.
 
-alternatively,
+  alternatively,
 
 1. Use your favorite toolchain with the optoDriver.hpp, optoDriver.cpp, and test.cpp files.
 
