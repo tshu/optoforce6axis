@@ -9,7 +9,7 @@ To run:
 2. Create a catkin_ws and clone the repo into ```src``` directory of the empty workspace.
 3. ```catkin_make``` in the workspace root.
 4. ```source devel/setup.bash```
-5. In a new terminal, ```roscore``
+5. In a new terminal, ```roscore```
 6. ```rosrun optoforce optoforce_node``` with transducer connected.
 
 Alternatively:
