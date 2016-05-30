@@ -9,7 +9,7 @@ optoDriver::optoDriver(int speed, int filter, bool zero){
     ByteSize = CS8;      // 8 bits
     StopBits = CSTOPB; 	 // One stop bit
     Parity 	 = ~PARENB;  // No parity
-    port = "optoforce";  // Default is ttyACM0, any other value is a static port rerouting to ttyACM0
+    port = "ttyACM0";  // Default is ttyACM0, any other value is a static port rerouting to ttyACM0
 
     stream_byte_len = 22;
     streamON = false;
