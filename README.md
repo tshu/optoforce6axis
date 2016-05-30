@@ -14,6 +14,6 @@ To run:
 
   alternatively,
 
-1. Use your favorite toolchain with the optoDriver.hpp, optoDriver.cpp, and test.cpp files.
+Use your favorite toolchain with the optoDriver.hpp, optoDriver.cpp, and test.cpp files.
 
 
