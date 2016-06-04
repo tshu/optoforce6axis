@@ -3,7 +3,7 @@ A custom C++ API to communicate with OptoForce's 6-axis transducers, compatible 
 
 http://optoforce.com/sixaxis/
 
-To run:
+To run test.cpp:
 
 1. Make sure you have [ROS](http://www.ros.org/) installed.
 2. Create a catkin_ws and clone the repo into ```src``` directory of the empty workspace.
